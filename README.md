@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project provide sample code to implement payment use Ruby on Rails. Hope can help you when develop
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 1.VNPAY
+### 2.PayPal
+### 3.AliPay
+### 4.GMO
+### 5. CondoPay
